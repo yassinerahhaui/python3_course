@@ -12,3 +12,8 @@ print(x,type(x))
 
 x.append(516)
 print(x)
+x.insert(2,33)
+print(x)
+
+x.pop(2)
+print(x)
